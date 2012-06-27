@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>PhoneGap: RGB Bluetooth Ledstrip Controller</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Program created to interface with bluetooth led control module. Based on PhoneGap and build.phonegap.com, plugin from phonegap-plugins/bluetooth.
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://zokol.github.com"
+		email="juva.hj@gmail.com">
+		Heikki Juva
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
